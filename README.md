@@ -11,6 +11,6 @@ The Open Science Framework project page for this chapter's supplemental material
 
 Hasselman, F., (2014). Beyond The Boundary - 2nd Chapter: Supplemental Materials. Retrieved from Open Science Framework, osf.io/9mtpq
 
-A `pdf` file of Chapter 4 is [here](http://figshare.com/authors/Fred%20Hasselman/520930) and may be cited as:
+A `pdf` file of Chapter 2 is [here](http://figshare.com/authors/Fred%20Hasselman/520930) and may be cited as:
 
 
